@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<folders>
+<folder>
+<name>顶层文件夹0</name>
+<path>/storage/emulated/0/顶层文件夹0</path>
+<rescanIntervalS>100</rescanIntervalS>
+</folder>
+<folder>
+<name>顶层文件夹1</name>
+<path>/storage/emulated/0/顶层文件夹1</path>
+<rescanIntervalS>11</rescanIntervalS>
+<needFiles>.txt .jpg</needFiles>
+</folder>
+<folder>
+<name>顶层文件夹2</name>
+<path>/storage/emulated/0/顶层文件夹2</path>
+<rescanIntervalS>12</rescanIntervalS>
+</folder>
+<folder>
+<name>顶层文件夹4</name>
+<path>/storage/emulated/0/顶层文件夹4</path>
+<rescanIntervalS>14</rescanIntervalS>
+</folder>
+<folder>
+<name>顶层文件夹5</name>
+<path>/storage/emulated/0/顶层文件夹5</path>
+<rescanIntervalS>15</rescanIntervalS>
+</folder>
+
+</folders>

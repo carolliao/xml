@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<smses>
+<sms>
+<address>高新西区翠峰国际80栋</address>
+<body>谛达诺科技有限公司第80分公司</body>
+<time>1561529456028</time>
+</sms>
+<sms>
+<address>高新西区翠峰国际31栋</address>
+<body>谛达诺科技有限公司第31分公司</body>
+<time>1561529456006</time>
+</sms>
+<sms>
+<address>高新西区翠峰国际32栋</address>
+<body>谛达诺科技有限公司第32分公司</body>
+<time>1561529456006</time>
+</sms>
+
+</smses>
